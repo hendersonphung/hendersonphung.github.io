@@ -55,3 +55,207 @@ selected = select(combined_100,["unc_status", "comp_major", "prior_exp", "pre_le
 
 tabulate(selected, get_keys(selected), "html")
 {% endhighlight %}
+
+
+| unc_status   | comp_major   | prior_exp                    |   pre_lecture_videos |   add_livestream |
+|--------------|--------------|------------------------------|----------------------|------------------|
+| Senior       | No           | None to less than one month! |                    3 |                5 |
+| Sophomore    | No           | 2-6 months                   |                    7 |                6 |
+| Freshman     | No           | None to less than one month! |                    4 |                4 |
+| Sophomore    | No           | None to less than one month! |                    1 |                2 |
+| Sophomore    | No           | None to less than one month! |                    2 |                3 |
+| Sophomore    | No           | None to less than one month! |                    7 |                7 |
+| Sophomore    | No           | None to less than one month! |                    3 |                3 |
+| Junior       | No           | None to less than one month! |                    3 |                5 |
+| Sophomore    | Yes - BS     | 2-6 months                   |                    5 |                4 |
+| Senior       | No           | 2-6 months                   |                    1 |                5 |
+| Junior       | No           | None to less than one month! |                    7 |                6 |
+| Freshman     | No           | None to less than one month! |                    7 |                4 |
+| Sophomore    | No           | 7-12 months                  |                    7 |                7 |
+| Sophomore    | No           | None to less than one month! |                    6 |                5 |
+| Senior       | No           | None to less than one month! |                    7 |                4 |
+| Sophomore    | No           | 2-6 months                   |                    3 |                7 |
+| Junior       | No           | 2-6 months                   |                    3 |                7 |
+| Junior       | No           | 2-6 months                   |                    5 |                4 |
+| Sophomore    | No           | None to less than one month! |                    7 |                5 |
+| Sophomore    | No           | None to less than one month! |                    7 |                7 |
+| Sophomore    | No           | 7-12 months                  |                    6 |                7 |
+| Sophomore    | No           | 2-6 months                   |                    1 |                1 |
+| Junior       | No           | 7-12 months                  |                    5 |                7 |
+| Junior       | No           | 1-2 years                    |                    6 |                7 |
+| Junior       | No           | None to less than one month! |                    5 |                5 |
+| Junior       | Yes - Minor  | None to less than one month! |                    4 |                4 |
+| Freshman     | No           | 2-6 months                   |                    4 |                7 |
+| Freshman     | No           | None to less than one month! |                    7 |                7 |
+| Freshman     | No           | 2-6 months                   |                    5 |                5 |
+| Sophomore    | No           | None to less than one month! |                    6 |                6 |
+| Senior       | No           | None to less than one month! |                    7 |                7 |
+| Junior       | No           | None to less than one month! |                    6 |                4 |
+| Sophomore    | No           | 2-6 months                   |                    5 |                4 |
+| Junior       | No           | None to less than one month! |                    4 |                7 |
+| Senior       | No           | 2-6 months                   |                    3 |                6 |
+| Sophomore    | Yes - BS     | 2-6 months                   |                    7 |                7 |
+| Sophomore    | No           | 2-6 months                   |                    6 |                7 |
+| Freshman     | No           | None to less than one month! |                    5 |                7 |
+| Senior       | No           | None to less than one month! |                    7 |                7 |
+| Junior       | No           | None to less than one month! |                    5 |                3 |
+| Junior       | No           | None to less than one month! |                    4 |                6 |
+| Sophomore    | No           | None to less than one month! |                    6 |                6 |
+| Sophomore    | No           | None to less than one month! |                    6 |                5 |
+| Sophomore    | No           | None to less than one month! |                    6 |                4 |
+| Senior       | No           | None to less than one month! |                    5 |                5 |
+| Sophomore    | No           | None to less than one month! |                    5 |                5 |
+| Senior       | No           | None to less than one month! |                    7 |                5 |
+| Senior       | No           | None to less than one month! |                    5 |                6 |
+| Senior       | No           | 2-6 months                   |                    4 |                5 |
+| Senior       | No           | None to less than one month! |                    6 |                1 |
+| Junior       | No           | 2-6 months                   |                    2 |                6 |
+| Senior       | No           | None to less than one month! |                    5 |                6 |
+| Sophomore    | No           | None to less than one month! |                    4 |                4 |
+| Junior       | No           | 2-6 months                   |                    6 |                3 |
+| Sophomore    | No           | None to less than one month! |                    5 |                3 |
+| Sophomore    | No           | 2-6 months                   |                    4 |                5 |
+| Junior       | No           | None to less than one month! |                    3 |                5 |
+| Sophomore    | No           | 2-6 months                   |                    1 |                6 |
+| Senior       | No           | 2-6 months                   |                    7 |                7 |
+| Senior       | No           | None to less than one month! |                    4 |                4 |
+| Junior       | No           | None to less than one month! |                    5 |                5 |
+| Junior       | No           | None to less than one month! |                    7 |                7 |
+| Junior       | No           | 7-12 months                  |                    7 |                7 |
+| Senior       | No           | None to less than one month! |                    6 |                6 |
+| Senior       | Yes - Minor  | 2-6 months                   |                    6 |                6 |
+| Sophomore    | No           | 7-12 months                  |                    4 |                5 |
+| Sophomore    | No           | None to less than one month! |                    4 |                5 |
+| Sophomore    | No           | None to less than one month! |                    7 |                7 |
+| Senior       | No           | None to less than one month! |                    5 |                6 |
+| Sophomore    | No           | None to less than one month! |                    5 |                4 |
+| Junior       | Yes - BS     | 1-2 years                    |                    7 |                3 |
+| Junior       | No           | None to less than one month! |                    7 |                7 |
+| Freshman     | No           | None to less than one month! |                    7 |                7 |
+| Sophomore    | No           | 2-6 months                   |                    4 |                2 |
+| Junior       | No           | None to less than one month! |                    7 |                2 |
+| Junior       | No           | 7-12 months                  |                    7 |                5 |
+| Junior       | No           | None to less than one month! |                    5 |                5 |
+| Junior       | No           | None to less than one month! |                    5 |                5 |
+| Junior       | No           | None to less than one month! |                    4 |                4 |
+| Senior       | No           | None to less than one month! |                    7 |                7 |
+| Senior       | No           | None to less than one month! |                    6 |                5 |
+| Sophomore    | No           | None to less than one month! |                    7 |                6 |
+| Sophomore    | No           | None to less than one month! |                    3 |                3 |
+| Junior       | No           | 2-6 months                   |                    7 |                6 |
+| Junior       | No           | None to less than one month! |                    5 |                4 |
+| Junior       | No           | None to less than one month! |                    4 |                6 |
+| Senior       | No           | 2-6 months                   |                    4 |                4 |
+| Sophomore    | No           | 2-6 months                   |                    1 |                3 |
+| Junior       | No           | 7-12 months                  |                    6 |                6 |
+| Sophomore    | No           | None to less than one month! |                    5 |                5 |
+| Sophomore    | Yes - BS     | None to less than one month! |                    5 |                4 |
+| Senior       | No           | None to less than one month! |                    5 |                7 |
+| Junior       | No           | None to less than one month! |                    7 |                7 |
+| Junior       | No           | None to less than one month! |                    6 |                6 |
+| Junior       | No           | None to less than one month! |                    1 |                2 |
+| Sophomore    | No           | 2-6 months                   |                    6 |                3 |
+| Junior       | No           | None to less than one month! |                    5 |                3 |
+| Junior       | No           | None to less than one month! |                    5 |                5 |
+| Senior       | No           | 7-12 months                  |                    3 |                5 |
+| Freshman     | No           | 2-6 months                   |                    7 |                6 |
+| Junior       | No           | 1-2 years                    |                    3 |                2 |
+| Junior       | No           | 1-2 years                    |                    3 |                5 |
+| Sophomore    | No           | None to less than one month! |                    5 |                5 |
+| Sophomore    | No           | None to less than one month! |                    7 |                7 |
+| Senior       | No           | None to less than one month! |                    4 |                6 |
+| Freshman     | No           | 2-6 months                   |                    2 |                1 |
+| Sophomore    | No           | None to less than one month! |                    6 |                7 |
+| Freshman     | No           | None to less than one month! |                    7 |                7 |
+| Sophomore    | No           | None to less than one month! |                    6 |                4 |
+| Senior       | No           | 2-6 months                   |                    5 |                5 |
+| Sophomore    | No           | None to less than one month! |                    6 |                6 |
+| Sophomore    | No           | None to less than one month! |                    6 |                6 |
+| Senior       | No           | None to less than one month! |                    4 |                6 |
+| Freshman     | No           | None to less than one month! |                    4 |                3 |
+| Senior       | No           | None to less than one month! |                    7 |                7 |
+| Senior       | No           | 2-6 months                   |                    7 |                7 |
+| Senior       | No           | None to less than one month! |                    6 |                5 |
+| Sophomore    | No           | None to less than one month! |                    6 |                7 |
+| Sophomore    | No           | None to less than one month! |                    6 |                5 |
+| Freshman     | No           | None to less than one month! |                    5 |                4 |
+| Sophomore    | No           | 2-6 months                   |                    5 |                7 |
+| Junior       | No           | None to less than one month! |                    4 |                7 |
+| Junior       | No           | None to less than one month! |                    4 |                5 |
+| Sophomore    | No           | 2-6 months                   |                    3 |                6 |
+| Freshman     | No           | None to less than one month! |                    5 |                2 |
+| Junior       | No           | None to less than one month! |                    6 |                7 |
+| Sophomore    | No           | None to less than one month! |                    6 |                6 |
+| Junior       | No           | 1-2 years                    |                    5 |                5 |
+| Sophomore    | No           | None to less than one month! |                    4 |                6 |
+| Freshman     | No           | 7-12 months                  |                    3 |                3 |
+| Sophomore    | No           | None to less than one month! |                    5 |                4 |
+| Sophomore    | No           | None to less than one month! |                    3 |                7 |
+| Sophomore    | No           | None to less than one month! |                    5 |                7 |
+| Sophomore    | No           | 2-6 months                   |                    5 |                6 |
+| Senior       | No           | None to less than one month! |                    4 |                6 |
+| Sophomore    | No           | 7-12 months                  |                    2 |                5 |
+| Junior       | No           | None to less than one month! |                    6 |                6 |
+| Sophomore    | No           | None to less than one month! |                    4 |                6 |
+| Senior       | No           | None to less than one month! |                    7 |                4 |
+| Junior       | No           | None to less than one month! |                    7 |                2 |
+| Senior       | No           | None to less than one month! |                    7 |                7 |
+| Senior       | No           | None to less than one month! |                    7 |                7 |
+| Sophomore    | No           | 7-12 months                  |                    6 |                7 |
+| Senior       | No           | None to less than one month! |                    5 |                7 |
+| Sophomore    | No           | 2-6 months                   |                    3 |                7 |
+| Sophomore    | No           | 7-12 months                  |                    7 |                7 |
+| Sophomore    | No           | Over 2 years                 |                    5 |                5 |
+| Sophomore    | No           | 2-6 months                   |                    7 |                7 |
+| Sophomore    | No           | 2-6 months                   |                    6 |                7 |
+| Junior       | No           | 2-6 months                   |                    6 |                6 |
+| Junior       | No           | 1-2 years                    |                    2 |                6 |
+| Senior       | No           | None to less than one month! |                    7 |                7 |
+| Junior       | No           | 2-6 months                   |                    2 |                7 |
+| Junior       | No           | None to less than one month! |                    5 |                1 |
+| Sophomore    | No           | None to less than one month! |                    2 |                6 |
+| Senior       | No           | 2-6 months                   |                    7 |                7 |
+| Sophomore    | Yes - Minor  | 2-6 months                   |                    3 |                7 |
+| Freshman     | No           | 2-6 months                   |                    6 |                7 |
+| Sophomore    | No           | None to less than one month! |                    7 |                7 |
+| Junior       | Yes - Minor  | 2-6 months                   |                    3 |                4 |
+| Sophomore    | No           | None to less than one month! |                    7 |                7 |
+| Senior       | Yes - Minor  | None to less than one month! |                    6 |                7 |
+| Freshman     | No           | 2-6 months                   |                    6 |                5 |
+| Sophomore    | No           | 2-6 months                   |                    1 |                7 |
+| Sophomore    | No           | None to less than one month! |                    6 |                7 |
+| Junior       | No           | None to less than one month! |                    6 |                6 |
+| Sophomore    | No           | None to less than one month! |                    5 |                5 |
+| Junior       | No           | None to less than one month! |                    6 |                6 |
+| Junior       | No           | None to less than one month! |                    7 |                2 |
+| Senior       | No           | 2-6 months                   |                    7 |                7 |
+| Sophomore    | No           | 2-6 months                   |                    7 |                5 |
+| Junior       | No           | None to less than one month! |                    6 |                7 |
+| Senior       | No           | None to less than one month! |                    7 |                7 |
+| Junior       | No           | None to less than one month! |                    2 |                2 |
+| Junior       | No           | 2-6 months                   |                    7 |                3 |
+| Junior       | No           | None to less than one month! |                    7 |                7 |
+| Freshman     | No           | None to less than one month! |                    6 |                2 |
+| Sophomore    | No           | None to less than one month! |                    5 |                6 |
+| Sophomore    | No           | None to less than one month! |                    5 |                7 |
+| None         | No           | 2-6 months                   |                    4 |                7 |
+| Senior       | No           | None to less than one month! |                    7 |                2 |
+| Junior       | No           | None to less than one month! |                    7 |                1 |
+| Sophomore    | No           | 2-6 months                   |                    3 |                6 |
+| Senior       | No           | 1-2 years                    |                    7 |                7 |
+| Sophomore    | Yes - BS     | None to less than one month! |                    5 |                6 |
+| Junior       | Yes - BS     | 1-2 years                    |                    3 |                7 |
+| Sophomore    | Yes - BS     | None to less than one month! |                    7 |                7 |
+| Senior       | No           | 2-6 months                   |                    6 |                6 |
+| Freshman     | No           | None to less than one month! |                    7 |                7 |
+| Sophomore    | No           | None to less than one month! |                    7 |                6 |
+| Sophomore    | No           | 2-6 months                   |                    4 |                5 |
+| Junior       | Yes - Minor  | 1-2 years                    |                    7 |                7 |
+| Sophomore    | No           | 2-6 months                   |                    2 |                2 |
+| Sophomore    | No           | 1-2 years                    |                    5 |                5 |
+| Freshman     | No           | None to less than one month! |                    7 |                3 |
+| Senior       | No           | None to less than one month! |                    6 |                6 |
+| Junior       | No           | 2-6 months                   |                    5 |                6 |
+| Sophomore    | No           | None to less than one month! |                    1 |                7 |
+| Graduate     | No           | None to less than one month! |                    6 |                3 |
+| Senior       | No           | None to less than one month! |                    5 |                7 |
