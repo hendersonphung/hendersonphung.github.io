@@ -61,7 +61,7 @@ tabulate(selected, get_keys(selected), "html")
 
 
 | unc_status   | comp_major   | prior_exp                    |   pre_lecture_videos |   add_livestream |
-|--------------|--------------|------------------------------|----------------------|------------------|
+|--------------|--------------|------------------------------|---------|---------|
 | Senior       | No           | None to less than one month! |                    3 |                5 |
 | Sophomore    | No           | 2-6 months                   |                    7 |                6 |
 | Freshman     | No           | None to less than one month! |                    4 |                4 |
