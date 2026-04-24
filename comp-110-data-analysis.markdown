@@ -34,7 +34,7 @@ from tabulate import tabulate
 import seaborn as sns
 from data_utils import get_keys, convert_columns_to_int, read_csv_rows, column_values, columnar, head, select, concat, count, average_score
 
-DATA_FILE_DIRECTORY: str = "data/"
+DATA_FILE_DIRECTORY: str = "static/data/"
 DATA_FILE_NAMES: list[str] = ["survey_izzi.csv", "survey_alyssa.csv"]
 DATA_FILE_NAME_IZZI: str = f"{DATA_FILE_DIRECTORY}{DATA_FILE_NAMES[0]}"
 DATA_FILE_NAME_ALYSSA: str = f"{DATA_FILE_DIRECTORY}{DATA_FILE_NAMES[1]}"
