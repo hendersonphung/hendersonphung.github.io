@@ -3,6 +3,9 @@ layout: page
 title: COMP 110 Data Analysis
 permalink: /comp-110-data-analysis/
 ---
+
+Contributers: Henderson Phung, Kyle Bayer
+
 # Introduction
 
 ### The topic at stake for this data analysis project is determining the attitude of students of Spring 2026, COMP 110 on **pre-lecture videos** and **livestream lectures**.
