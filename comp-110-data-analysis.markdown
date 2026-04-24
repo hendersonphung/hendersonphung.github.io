@@ -4,7 +4,7 @@ title: COMP 110 Data Analysis
 permalink: /comp-110-data-analysis/
 ---
 
-Contributers: Henderson Phung, Kyle Bayer
+Contributors: Henderson Phung, Kyle Bayer
 
 # Introduction
 
