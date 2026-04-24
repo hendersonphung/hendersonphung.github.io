@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: _layouts/page
 title: COMP 110 Data Analysis
 permalink: /comp-110-data-analysis/
 ---
