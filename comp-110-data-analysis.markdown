@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: COMP 110 Data Analysis
 permalink: /comp-110-data-analysis/
@@ -331,4 +331,4 @@ The effect of pre-lecture videos will allow these students to get a better under
 
 The effect of adding livestreams to the course will allow students to rewatch lectures at their own convenience to better grasp material covered in class, including practice problems and concept explanations provided by the instructor.  Furthermore, livestreams will allow students to remotely attend class, however, the attendance policy should be changed if implementing this as this will affect attendance rates during the semester.  
 
-Overall, implementing livestreams is a benefit for attending students across all experience levels to be able to review, recall, and retrive information covered in lectures and is a great tool for active learning.
+Overall, implementing livestreams is a benefit for attending students across all experience levels to be able to review, recall, and retrive information covered in lectures and is a great tool for active learning. -->
