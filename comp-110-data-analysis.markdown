@@ -292,7 +292,7 @@ This was done to view experience levels in the class between these two populatio
 | Is major/minor   |   count |
 |------------------|---------|
 | No               |     187 |
-| Yes              |       6 |
+| Yes              |      13 |
 
 We will compare the level of experiences between computer science degrees to non-computer science degrees.
 
